@@ -1,0 +1,17 @@
+.catimage {
+    width: 50px;
+    height: 60px;
+    margin-left: 45px;
+}
+.textdiv  {
+margin-left: 40px;
+}
+.categorydiv:hover {
+
+    box-shadow: 0 0 2px 2px #eee;
+    cursor: pointer;
+}
+.heading {
+    margin-left: 25px;
+    margin-top: 10px;
+}

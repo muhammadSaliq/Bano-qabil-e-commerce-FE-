@@ -1,0 +1,16 @@
+.headimage {
+    width: 45px;
+    height: 40px;
+    border-radius: 50%;
+}
+span {
+    margin-left: 10px;
+}
+.main {
+    margin-top: 20px;
+    
+}
+.subheaderdiv:hover {
+    box-shadow: 0 0 2px 2px #eee;
+    cursor: pointer;
+}

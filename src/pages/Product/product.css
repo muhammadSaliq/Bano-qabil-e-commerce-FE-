@@ -1,0 +1,59 @@
+
+.inlinediv {
+display: inline-block;
+width: 700px;
+height: 500px;
+margin-left: 20px;
+margin-top: 50px;
+
+
+
+}
+.imagediv {
+    display: inline-block;
+    margin-left: 80px;
+    width:250px;
+    height: 350px;
+    padding-bottom: 60px;
+
+}
+.detaildiv {
+    margin-left: 100px;
+}
+.pricediv {
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+.addbbutton {
+    height: 40px;
+    width: 150px;
+    background-color: #FF7900;
+    border: none;
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-left: 70px;
+    
+}
+.removebbutton {
+    height: 40px;
+    width: 150px;
+    background-color: #0080FE;
+    border: none;
+    margin-top: 50px;
+    margin-right: 20px;
+    
+}
+.giffdiv {
+    display: inline-block;
+    width: 450px;
+    height: 320px;
+    margin-left: 30px;
+    padding-bottom: 50px;
+}
+.prodctdiv {
+    display: inline-block ;
+}
+.gifpic {
+    width: 400px;
+    height: 300px;
+}

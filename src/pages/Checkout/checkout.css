@@ -1,0 +1,15 @@
+.payment {
+    width: 900px;
+    height: 200px;
+    background-color: aqua;
+    margin: auto;
+}
+
+.submit {
+    height: 40px;
+    width: 150px;
+    background-color: #FF7900;
+    border: none;
+    margin-top: 40px;
+
+}

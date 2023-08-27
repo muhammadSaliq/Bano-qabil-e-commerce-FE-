@@ -1,0 +1,21 @@
+.footer {
+    margin-top: 50px;
+    width: 1690px;
+    height: 400px;
+    background-color: #3e8eDe;
+    padding-top: 60px;
+}
+.cardfooter {
+    display: inline-block;
+}
+.contain {
+
+    margin-bottom: 20px;
+    font-size: 17px;
+
+
+}
+.bottomhead {
+    margin-left: 250px;
+    margin-top: 100px;
+}
